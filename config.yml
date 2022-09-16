@@ -1,4 +1,12 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Code with Flavor
 theme: PaperMod
+
+params:
+  defaultTheme: auto
+  enableEmoji: true
+
+  homeInfoParams:
+        Title: Code with Flavor 💻🍴 
+        Content: Can be Info, links, about...
